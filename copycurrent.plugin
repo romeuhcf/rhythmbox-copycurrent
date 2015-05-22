@@ -1,0 +1,9 @@
+[Plugin]
+Loader=python3
+Module=copycurrent
+IAge=2
+Name=Copy current song to somewhere
+Description=Copy current song when Ctrl+Shift+'Insert' is pressed to somewhere defined.
+Authors=romeu.hcf@gmail.com
+Copyright=Copyright © 2015 
+Website=https://github.com/romeuhcf
